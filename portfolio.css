@@ -1,0 +1,12 @@
+img:hover {
+    transition:all .5s ease-in-out;
+    filter: saturate(180%);
+    filter: opacity(.5);
+}
+
+.team-header {
+
+    border-radius: 15px 50px;
+    background: #73AD21;
+    padding: 20px;
+    }
