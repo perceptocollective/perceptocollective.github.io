@@ -30,32 +30,3 @@
   .jumbotron .container {
     max-width: 40rem;
   }
-
-
-img:hover {
-    transition:all .5s ease-in-out;
-    filter: saturate(180%);
-    filter: opacity(.5);
-}
-
-.team-header {
-    font-size: 2rem;
-    font-style: italic;
-    /* border-radius: 15px 50px; */
-    /* background: #73AD21; */
-    border-radius:  15px 15px 0px 0px; 
-    background: #e4e4e4;
-    padding: 20px;
-    }
-
-.color-btn
-{
-    /* border-radius:  50px 15px; */
-    /* background: #73AD21; */
-    border-radius:  15px; 
-    background: #e4e4e4;
-
-    /* background: #a0d15b; */
-    padding: 10px 30px ;
-
-}
