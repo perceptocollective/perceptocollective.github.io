@@ -5,7 +5,9 @@
   :root {
     --jumbotron-padding-y: 3rem;
   }
-  
+  li a{
+    font-size: 1.5em;
+  }
   .jumbotron {
     padding-top: var(--jumbotron-padding-y);
     padding-bottom: var(--jumbotron-padding-y);
